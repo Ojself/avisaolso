@@ -15,7 +15,7 @@ export default function Article() {
             utelivsbransjen og byens borgere, etter en årrekke med Nordens
             strengeste salgstider for alkohol.
           </p>
-          <p className='mb-8'>
+          <p className='mb-8 font-bold'>
             Byrådsleder Eirik Lae Solberg uttrykte under kunngjøringen at dette
             vedtaket er et ledd i å revitalisere Oslos omprofilering til
             <span className='italic'> Nordens Berlin</span>, i håp om at Oslo
@@ -26,7 +26,7 @@ export default function Article() {
             dagtid, men til alles døgnets tider, samtidig som vi opprettholder
             en ansvarlig og trygg tilnærming til alkoholkonsum» sa Solberg.
           </p>
-          <p className='mb-8'>
+          <p className='mb-8 font-bold'>
             Det nye regelverket tillater serveringssteder med skjenkebevilling å
             forlenge alkoholserveringen til kl. 05:00, to timer lenger enn
             tidligere. Vedtaket har blitt mottatt med jubel blant bar- og
@@ -55,11 +55,13 @@ export default function Article() {
             uønskede hendelser.
           </p>
           <p className='mb-8'>
-            På spørsmål om de skal feire i kveld, svarer byrådsleder Solberg:
-            «Hele byrådet skal feire på Jæger i kveld, og vi håper å se mange av
-            dere der!»
+            På spørsmål om de skal feire i kveld, svarer byrådsleder Solberg:{" "}
+            <span className='font-bold'>
+              «Hele byrådet skal feire på Jæger i kveld, og vi håper å se mange
+              av dere der!»
+            </span>
           </p>
-          <p className='mb-8'>
+          <p className='mb-8 '>
             Med dette vedtaket markerer Oslo et betydelig skritt mot en ny
             normal, med en visjon om et mer levende og inkluderende byliv.
           </p>
