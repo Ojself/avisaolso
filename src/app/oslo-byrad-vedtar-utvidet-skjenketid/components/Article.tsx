@@ -4,7 +4,7 @@ export default function Article() {
   return (
     <section className='flex justify-center mb-8'>
       <div className='w-[1020px] flex flex-col px-4'>
-        <h2 className='text-3xl font-light mb-4'>
+        <h2 className='text-2xl md:text-3xl font-light mb-4'>
           - Starter allerede i kveld.
         </h2>
         <div className='pl-4 md:pl-16 font-body text-lg w-11/12 md:w-5/6 '>
