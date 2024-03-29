@@ -44,7 +44,8 @@ export default function Nav() {
               className='px-3 h-full w-full flex items-center justify-center'
               href='/'
             >
-              Videotips - send oss video!
+              Videotips{" "}
+              <span className='hidden md:block'>- send oss video!</span>
             </Link>
           </li>
           <li className='hover:bg-gray-100'>

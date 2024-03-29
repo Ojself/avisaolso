@@ -18,7 +18,7 @@ export default function Hero() {
           <li className='text-base px-2'>Sentrum</li>
           <li className='text-base px-2'>Alkohol</li>
         </ul>
-        <h1 className='adisplay font-black text-7xl'>
+        <h1 className='adisplay font-black text-3xl md:text-7xl'>
           Oslo byråd vedtar utvidet skjenketid: - Oslo kan bli Nordens Berlin
         </h1>
         <div className='mb-6'>
@@ -31,21 +31,24 @@ export default function Hero() {
             </p>
           </div>
         </div>
-        <div className='flex justify-between my-4 items-center'>
-          <h5>
-            Av{" "}
-            <a
-              target='_blank'
-              rel='noopener noreferrer'
-              className='underline'
-              href='mailto:hei@osloomvendt.no'
-            >
-              <span className='text-ablue'>Oscar Omland</span>
-            </a>
-          </h5>
-          <div className='flex items-center'>
-            <h5 className='mr-2'>Publisert: 01.04.24 07:18</h5>
-
+        <div className='flex justify-between my-4 items-center '>
+          <div className='flex flex-col md:flex-row justify-between items-start md:items-center grow'>
+            <h5>
+              Av{" "}
+              <a
+                target='_blank'
+                rel='noopener noreferrer'
+                className='hover:underline'
+                href='mailto:hei@osloomvendt.no'
+              >
+                <span className='text-ablue'>Oscar Omland</span>
+              </a>
+            </h5>
+            <div className='flex items-center'>
+              <h5 className='mr-2'>Publisert: 01.04.24 07:18</h5>
+            </div>
+          </div>
+          <div>
             <TwitterShareButton
               url={"https://avisa-olso.no/oslo-byrad-vedtar-utvidet-skjenketid"}
               title={"Oslo byråd vedtar utvidet skjenketid"}
@@ -60,9 +63,6 @@ export default function Hero() {
             >
               <FacebookIcon size={32} round />
             </FacebookShareButton>
-
-            {/* <button className='bg-agrey py-2 w-[70px] font-bold'> */}
-            {/* </button> */}
           </div>
         </div>
       </div>

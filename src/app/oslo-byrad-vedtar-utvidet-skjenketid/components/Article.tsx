@@ -7,7 +7,7 @@ export default function Article() {
         <h2 className='text-3xl font-light mb-4'>
           - Starter allerede i kveld.
         </h2>
-        <div className='pl-16 font-body text-lg w-11/12 md:w-5/6 '>
+        <div className='pl-4 md:pl-16 font-body text-lg w-11/12 md:w-5/6 '>
           <p className='mb-8'>
             I et overraskende vedtak har byrådet i Oslo besluttet å tillate
             utvidede skjenketider i hovedstaden, effektivt fra og med i dag.
