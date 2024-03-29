@@ -66,7 +66,7 @@ export default function Article() {
             normal, med en visjon om et mer levende og inkluderende byliv.
           </p>
         </div>
-        <div className='pl-16'>
+        <div className='pl-4 md:pl-16'>
           <p className='inline'>
             Les mer om:{" "}
             <Link href='https://www.osloomvendt.no'>
