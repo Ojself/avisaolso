@@ -42,14 +42,15 @@ export default function Hero() {
             <h5 className='mr-2'>Publisert: 01.04.24 07:18</h5>
 
             <TwitterShareButton
-              url={"www.google.com"}
-              title={"some title"}
+              url={"https://avisa-olso.no/oslo-byrad-vedtar-utvidet-skjenketid"}
+              title={"Oslo byråd vedtar utvidet skjenketid"}
               className='Demo__some-network__share-button ml-2'
             >
               <XIcon size={32} round={true} />
             </TwitterShareButton>
             <FacebookShareButton
-              url={"www.google.com"}
+              title='Oslo byråd vedtar utvidet skjenketid'
+              url={"https://avisa-olso.no/oslo-byrad-vedtar-utvidet-skjenketid"}
               className='Demo__some-network__share-button ml-1'
             >
               <FacebookIcon size={32} round />

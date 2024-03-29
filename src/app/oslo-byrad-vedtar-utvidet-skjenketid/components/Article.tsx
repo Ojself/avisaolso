@@ -22,9 +22,9 @@ export default function Article() {
             skal endelig komme på kartet for Europas nattklubbturister.
           </p>
           <p className='mb-8'>
-            "Oslos gater skal igjen fylles med liv og glede, ikke bare på
+            &quot;Oslos gater skal igjen fylles med liv og glede, ikke bare på
             dagtid, men til alles døgnets tider, samtidig som vi opprettholder
-            en ansvarlig og trygg tilnærming til alkoholkonsum" sa Solberg.
+            en ansvarlig og trygg tilnærming til alkoholkonsum&quot; sa Solberg.
           </p>
           <p className='mb-8'>
             Det nye regelverket tillater serveringssteder med skjenkebevilling å
@@ -39,10 +39,10 @@ export default function Article() {
           <p className='mb-8'>
             En samlet opposisjon stiller spørsmål ved byrådets timing og
             prioriteringer, med bekymringer om potensielle negative konsekvenser
-            for offentlig orden og helse. "Selv om vi ønsker en utvidet
+            for offentlig orden og helse. &quot;Selv om vi ønsker en utvidet
             skjenketid velkommen, må det gjøres med omtanke og under
-            kontrollerte former," uttaler Julianne Ofstad, leder av helse- og
-            sosialutvalget for Fremskrittspartiet. Byrådet understreker at
+            kontrollerte former,&quot; uttaler Julianne Ofstad, leder av helse-
+            og sosialutvalget for Fremskrittspartiet. Byrådet understreker at
             utvidelsen vil bli nøye overvåket, med muligheter for justeringer
             basert på erfaringer og tilbakemeldinger.
           </p>
@@ -56,8 +56,8 @@ export default function Article() {
           </p>
           <p className='mb-8'>
             På spørsmål om de skal feire i kveld, svarer byrådsleder Solberg:
-            "Hele byrådet skal feire på Jæger i kveld, og vi håper å se mange av
-            dere der!"
+            &quot;Hele byrådet skal feire på Jæger i kveld, og vi håper å se
+            mange av dere der!&quot;
           </p>
           <p className='mb-8'>
             Med dette vedtaket markerer Oslo et betydelig skritt mot en ny
