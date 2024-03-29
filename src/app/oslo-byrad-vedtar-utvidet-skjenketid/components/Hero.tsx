@@ -34,9 +34,14 @@ export default function Hero() {
         <div className='flex justify-between my-4 items-center'>
           <h5>
             Av{" "}
-            <span className='text-ablue utvider skjenketidlue'>
-              Oscar Omland
-            </span>
+            <a
+              target='_blank'
+              rel='noopener noreferrer'
+              className='underline'
+              href='mailto:hei@osloomvendt.no'
+            >
+              <span className='text-ablue'>Oscar Omland</span>
+            </a>
           </h5>
           <div className='flex items-center'>
             <h5 className='mr-2'>Publisert: 01.04.24 07:18</h5>
