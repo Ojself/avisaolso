@@ -22,9 +22,9 @@ export default function Article() {
             skal endelig komme på kartet for Europas nattklubbturister.
           </p>
           <p className='mb-8'>
-            «Oslos gater skal igjen fylles med liv og glede, ikke bare på
-            dagtid, men til alles døgnets tider, samtidig som vi opprettholder
-            en ansvarlig og trygg tilnærming til alkoholkonsum» sa Solberg.
+            «Oslos gater skal fylles med liv og glede, ikke bare på dagtid, men
+            til alles døgnets tider, samtidig som vi opprettholder en ansvarlig
+            og trygg tilnærming til alkoholkonsum» sa Solberg.
           </p>
           <p className='mb-8 font-bold'>
             Det nye regelverket tillater serveringssteder med skjenkebevilling å
