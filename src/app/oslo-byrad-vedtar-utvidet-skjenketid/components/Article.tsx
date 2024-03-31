@@ -55,8 +55,14 @@ export default function Article() {
           <p className='mb-8'>
             På spørsmål om de skal feire i kveld, svarer byrådsleder Solberg:{" "}
             <span className='font-bold'>
-              «Hele byrådet skal feire på Jæger i kveld, og vi håper å se mange
-              av dere der!»
+              «Hele byrådet skal feire på Jæger i kveld og se{" "}
+              <Link
+                className='text-ablue hover:underline'
+                href='https://fb.me/e/42hq9BNH6'
+              >
+                Mandagsklubben
+              </Link>
+              , og vi håper å se mange av dere der!»
             </span>
           </p>
           <p className='mb-8 '>
