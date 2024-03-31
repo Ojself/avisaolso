@@ -36,9 +36,10 @@ export default function Article() {
 
           <p className='mb-8'>
             Motstanden mot beslutningen kom raskt. Opposisjonen utfordrer
-            byrådets beslutningstidspunkt og prioriteringer, uttrykker bekymring
-            for offentlig sikkerhet og helse. «Vi støtter gjenåpningen, men den
-            må være ansvarlig,» sier Julianne Ofstad (FRP).
+            byrådets beslutningstidspunkt og prioriteringer og uttrykker
+            bekymring for offentlig sikkerhet og helse. «Vi støtter
+            gjenåpningen, men den må være ansvarlig,» sier Julianne Ofstad
+            (FRP).
           </p>
 
           <p className='mb-8'>
