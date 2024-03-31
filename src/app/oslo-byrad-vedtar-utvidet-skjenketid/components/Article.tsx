@@ -33,27 +33,25 @@ export default function Article() {
             restaurantinnehavere, som ser på dette som et avgjørende skritt mot
             kulturell hevelse.
           </p>
+
           <p className='mb-8'>
-            Kritikken har imidlertid ikke latt vente på seg.
+            Motstanden mot beslutningen kom raskt. Opposisjonen utfordrer
+            byrådets beslutningstidspunkt og prioriteringer, uttrykker bekymring
+            for offentlig sikkerhet og helse. «Vi støtter gjenåpningen, men den
+            må være ansvarlig,» sier Julianne Ofstad (FRP).
           </p>
+
           <p className='mb-8'>
-            En samlet opposisjon stiller spørsmål ved byrådets timing og
-            prioriteringer, med bekymringer om potensielle negative konsekvenser
-            for offentlig orden og helse. «Selv om vi ønsker en utvidet
-            skjenketid velkommen, må det gjøres med omtanke og under
-            kontrollerte former», uttaler Julianne Ofstad, leder av helse- og
-            sosialutvalget for Fremskrittspartiet. Byrådet understreker at
-            utvidelsen vil bli nøye overvåket, med muligheter for justeringer
-            basert på erfaringer og tilbakemeldinger.
+            Byrådet forsikrer at de vil overvåke situasjonen nøye, klar til å
+            tilpasse basert på tilbakemeldinger. Målet er å finne en god balanse
+            for byens liv, understreker de.
           </p>
+
           <p className='mb-8'>
-            Dette er et eksperimentelt steg for å balansere mellom kulturell
-            vekst og folkehelse, med håp om å sette en ny standard for
-            nattelivet i Oslo. Som en del av dette nye tiltaket, vil politiet og
-            andre relevante myndigheter styrke sin tilstedeværelse i bybildet
-            for å sikre at de utvidede skjenketidene ikke fører til en økning i
-            uønskede hendelser.
+            Politiet vil øke sin tilstedeværelse for å håndtere eventuelle
+            problemer som følge av de nye skjenketidene.
           </p>
+
           <p className='mb-8'>
             På spørsmål om de skal feire i kveld, svarer byrådsleder Solberg:{" "}
             <span className='font-bold'>
